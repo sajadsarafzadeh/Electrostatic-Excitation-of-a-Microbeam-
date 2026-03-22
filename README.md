@@ -1,4 +1,4 @@
-# Resistance Spot Welding (RSW) Simulation
+# Simulation of an electrostatic excited microbeam
 
 ## Project Overview
 This project presents a numerical simulation of the Resistance Spot Welding process using **COMSOL Multiphysics**. The study utilizes a 2D-axisymmetric model to predict temperature distribution and nugget formation between two steel sheets.
